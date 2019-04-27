@@ -9,5 +9,7 @@ int main(){
 		sum=sum+num;
 		cout<<num<<"\t"<<sum<<"\n";
 		num++;
+                cout<<num<<"\t"<<num<<"\n";
+
 	}
 }
